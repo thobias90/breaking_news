@@ -74,5 +74,3 @@ flutter run
 - [Flutter Documentation](https://docs.flutter.dev/)
 
 ##
-
-This README reflects the use of GetX for state management, Retrofit for API requests, and the app's core features. Let me know if you'd like to add more details!
